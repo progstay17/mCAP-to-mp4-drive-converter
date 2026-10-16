@@ -1,6 +1,23 @@
+<div align="center">
+
+<img src="assets/ghifarion/repo-banner.svg" alt="MCAP TO MP4 · GOOGLE DRIVE — Convert supported recordings in a guided Colab workflow." width="100%">
+
+</div>
+
 # MCAP to MP4 — Google Drive Notebook
 
-A Google Colab notebook for converting MCAP recordings stored in Google Drive into MP4 files, processing recordings one at a time.
+A Google Colab notebook workflow for converting supported MCAP recordings stored in Google Drive into MP4 files, processing recordings sequentially.
+
+> **Ghifarion** · Engineering Intelligence. Building Legacy.
+
+## On this page
+
+- [What it does](#what-it-does)
+- [Run it](#run-it)
+- [Requirements](#requirements)
+- [Notebook links](#notebook)
+
+---
 
 ## What it does
 
